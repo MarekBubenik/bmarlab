@@ -1,6 +1,6 @@
 # bmarlabDiagram
-Inspired by lads on r/homelab, made my own diagram of my domain.
+Inspired by lads on r/homelab, made my own diagram of my homelab.
 
-Diagram made thanks to app.diagrams.net application.
+Diagram made via app.diagrams.net.
 
 <img src="./bmarlab.drawio.png">
