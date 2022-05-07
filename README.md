@@ -1,5 +1,5 @@
 # bmarlabDiagram
-Inspired by lads on r/homelab, made my own diagram of my homelab.
+Inspired by lads on r/homelab, made my own homelab diagram.
 
 Diagram made via app.diagrams.net.
 
