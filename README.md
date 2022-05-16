@@ -1,4 +1,4 @@
-# bmarlabDiagram
+# labDiagram
 Inspired by lads on r/homelab, made my own homelab diagram.
 
 Diagram made via app.diagrams.net.
