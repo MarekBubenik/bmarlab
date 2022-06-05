@@ -1,8 +1,8 @@
 # labDiagram
 Inspired by lads on r/homelab, made my own homelab diagram.
 
-Diagram made via app.diagrams.net.
+Diagram made via draw.io
 
 <img src="./bmarlab_present.drawio.png">
-<img src="./homer.png">
+<img src="./dashboard.png">
 <img src="./lab.jpg">
